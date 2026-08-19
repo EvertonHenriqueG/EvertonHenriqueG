@@ -11,7 +11,7 @@ Tenho interesse em desenvolvimento de sistemas e Tecnologia da Informação, bus
 
 Atualmente venho desenvolvendo projetos próprios para colocar meus conhecimentos em prática e continuar evoluindo tecnicamente.
 
-## Tecnologias
+## Tecnologias e conhecimentos
 
 - HTML5
 - CSS3
@@ -24,13 +24,22 @@ Atualmente venho desenvolvendo projetos próprios para colocar meus conhecimento
 ## Projetos em destaque
 
 ### 🚀 Barber
+
 Plataforma SaaS para gerenciamento de barbearias, com foco em agendamento, gestão de clientes, assinaturas e painel administrativo.
 
+**Tecnologias:** React, Node.js e PostgreSQL
+
 ### 🌐 Portfolio
-Meu portfólio pessoal com informações profissionais, habilidades e projetos.
+
+Meu portfólio pessoal desenvolvido para apresentar minhas informações profissionais, habilidades e projetos.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript
 
 ### 💻 TecPrime
-Landing page institucional desenvolvida com HTML, CSS e JavaScript.
+
+Landing page institucional desenvolvida para apresentação de serviços de tecnologia.
+
+**Tecnologias:** HTML5, CSS3 e JavaScript
 
 ## Contato
 
