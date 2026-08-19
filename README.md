@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá! Eu sou Everton Henrique 👋
 
-<!--
-**EvertonHenriqueG/EvertonHenriqueG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web Júnior | Assistente de TI  
+🎓 Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor web com graduação concluída em Análise e Desenvolvimento de Sistemas.
+
+Tenho interesse em desenvolvimento de sistemas e Tecnologia da Informação, buscando minha primeira oportunidade profissional na área.
+
+Atualmente venho desenvolvendo projetos próprios para colocar meus conhecimentos em prática e continuar evoluindo tecnicamente.
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- PostgreSQL
+- Git
+- GitHub
+
+## Projetos em destaque
+
+### 🚀 Barber
+Plataforma SaaS para gerenciamento de barbearias, com foco em agendamento, gestão de clientes, assinaturas e painel administrativo.
+
+### 🌐 Portfolio
+Meu portfólio pessoal com informações profissionais, habilidades e projetos.
+
+### 💻 TecPrime
+Landing page institucional desenvolvida com HTML, CSS e JavaScript.
+
+## Contato
+
+🌐 Portfólio: https://evertonhenriqueg.github.io/portfolio/
+
+💼 LinkedIn: https://www.linkedin.com/in/everton-henrique-841772310/
+
+📧 Email: evertoninfon@gmail.com
